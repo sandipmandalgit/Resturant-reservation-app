@@ -113,4 +113,4 @@ Icons from Font Awesome
 Testimonial photos from randomuser.me
 
 Contact
-For questions or customization requests, please contact your Sandip Mandal at sandipmandalasus@gmial.com.
+For questions or customization requests, please contact your Sandip Mandal at sandipmandalasus@gmail.com.
